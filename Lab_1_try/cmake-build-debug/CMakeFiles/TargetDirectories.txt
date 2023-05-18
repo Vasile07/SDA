@@ -1,0 +1,3 @@
+C:/Irimies Vasile - Synced/UBB/SEM 2/SDA/Lab_1_try/cmake-build-debug/CMakeFiles/Lab_1_try.dir
+C:/Irimies Vasile - Synced/UBB/SEM 2/SDA/Lab_1_try/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Irimies Vasile - Synced/UBB/SEM 2/SDA/Lab_1_try/cmake-build-debug/CMakeFiles/rebuild_cache.dir

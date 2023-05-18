@@ -1,0 +1,6 @@
+#ifndef TAD_COLECTIE_TESTSCURT_H
+#define TAD_COLECTIE_TESTSCURT_H
+
+#endif //TAD_COLECTIE_TESTSCURT_H
+
+void testAll();
